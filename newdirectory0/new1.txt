@@ -1,2 +1,3 @@
-this is in branch1 edit 1srt time
+
+both branch 1 and branch 2 are  merged
 Heyy everyone !!!
